@@ -1,0 +1,15 @@
+#phils{
+    color: brown;
+    text-align: center;
+}
+#precious{
+    color: royalblue;
+}
+#Action{
+        text-align: right;
+}
+#body{
+    background-image: url(cake.jpg) url(cake);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat;
+}
